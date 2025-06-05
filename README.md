@@ -1,6 +1,5 @@
 # 🔥 Nirva Agni - AI-Based Fire Extinguishing Robotic Arm 🤖🔥
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
 [![Status](https://img.shields.io/badge/status-Prototype-blueviolet)](#)
 
